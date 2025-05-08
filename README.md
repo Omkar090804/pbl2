@@ -4,7 +4,7 @@
 
 ## About
 
-Imaginify is a powerful AI-powered image transformation platform built with Next.js. The application allows users to easily transform, restore, and enhance images using AI capabilities provided by Cloudinary's transformation services.
+PixMorph is a powerful AI-powered image transformation platform built with Next.js. The application allows users to easily transform, restore, and enhance images using AI capabilities provided by Cloudinary's transformation services.
 
 ## Features
 
